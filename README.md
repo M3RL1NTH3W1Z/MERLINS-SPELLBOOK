@@ -3,5 +3,11 @@ A repository with notes, projects, and pretty much anything and everything I can
 
 Here is how its currently broken down: 
 
-POTIONS: Bits of knowledge on pretty much every concept that I learn or come across. 
+POTIONS: Bits of knowledge on pretty much every concept that I learn or come across.
+
 SPELLS: Scripts, programs I made and my overall cheatsheet in dealing with offensive methodologies or blue team frameworks.
+
+
+RESEARCH: A technical paper on a specific concept (i.e. a technical analysis on Windows EDR or a breakdown on the security architecture within the Apple iOS chipset). 
+
+SUMMON: Projects that I have already created, in the process of conjuring up or retired. 
